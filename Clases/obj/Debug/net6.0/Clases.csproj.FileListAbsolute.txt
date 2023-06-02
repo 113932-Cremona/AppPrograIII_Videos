@@ -1,0 +1,12 @@
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\bin\Debug\net6.0\Clases.dll
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\bin\Debug\net6.0\Clases.pdb
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.dll
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\Clases.pdb
+C:\EscritorioCremona\Visual-Repositorio\API_EJEMPLO\Clases\obj\Debug\net6.0\ref\Clases.dll
